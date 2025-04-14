@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AndLua1">
+        <item name="android:colorPrimary">#ff2196f3</item>
+        <item name="android:colorAccent">#ff2196f3</item>
+        <item name="android:statusBarColor">#ff2196f3</item>
+        <item name="android:colorPrimaryDark">#ff2196f3</item>
+    </style>
+    <style name="AndLua2">
+        <item name="android:colorPrimary">#ff1976d2</item>
+        <item name="android:colorAccent">#ff1976d2</item>
+        <item name="android:statusBarColor">#ff1976d2</item>
+        <item name="android:colorPrimaryDark">#ff1976d2</item>
+    </style>
+    <style name="AndLua3">
+        <item name="android:colorPrimary">#ffff4081</item>
+        <item name="android:colorAccent">#ffff4081</item>
+        <item name="android:statusBarColor">#ffff4081</item>
+        <item name="android:colorPrimaryDark">#ffff4081</item>
+    </style>
+    <style name="AndLua4">
+        <item name="android:colorPrimary">#ff607d8b</item>
+        <item name="android:colorAccent">#ff607d8b</item>
+        <item name="android:statusBarColor">#ff607d8b</item>
+        <item name="android:colorPrimaryDark">#ff607d8b</item>
+    </style>
+    <style name="AndLua5">
+        <item name="android:colorPrimary">#ff455a64</item>
+        <item name="android:colorAccent">#ff455a64</item>
+        <item name="android:statusBarColor">#ff455a64</item>
+        <item name="android:colorPrimaryDark">#ff455a64</item>
+    </style>
+    <style name="AndLua6">
+        <item name="android:colorPrimary">#ff009688</item>
+        <item name="android:colorAccent">#ff009688</item>
+        <item name="android:statusBarColor">#ff009688</item>
+        <item name="android:colorPrimaryDark">#ff009688</item>
+    </style>
+    <style name="AndLua7">
+        <item name="android:colorPrimary">#ffd32f2f</item>
+        <item name="android:colorAccent">#ffd32f2f</item>
+        <item name="android:statusBarColor">#ffd32f2f</item>
+        <item name="android:colorPrimaryDark">#ffd32f2f</item>
+    </style>
+    <style name="AndLua8">
+        <item name="android:colorPrimary">#fff44336</item>
+        <item name="android:colorAccent">#fff44336</item>
+        <item name="android:statusBarColor">#fff44336</item>
+        <item name="android:colorPrimaryDark">#fff44336</item>
+    </style>
+    <style name="AndLua9">
+        <item name="android:colorPrimary">#ff795548</item>
+        <item name="android:colorAccent">#ff795548</item>
+        <item name="android:statusBarColor">#ff795548</item>
+        <item name="android:colorPrimaryDark">#ff795548</item>
+    </style>
+    <style name="AndLua10">
+        <item name="android:colorPrimary">#ff5d4037</item>
+        <item name="android:colorAccent">#ff5d4037</item>
+        <item name="android:statusBarColor">#ff5d4037</item>
+        <item name="android:colorPrimaryDark">#ff5d4037</item>
+    </style>
+    <style name="AndLua11">
+        <item name="android:colorPrimary">#ffffc107</item>
+        <item name="android:colorAccent">#ffffc107</item>
+        <item name="android:statusBarColor">#ffffc107</item>
+        <item name="android:colorPrimaryDark">#ffffc107</item>
+    </style>
+    <style name="AndLua12">
+        <item name="android:colorPrimary">#ffff9800</item>
+        <item name="android:colorAccent">#ffff9800</item>
+        <item name="android:statusBarColor">#ffff9800</item>
+        <item name="android:colorPrimaryDark">#ffff9800</item>
+    </style>
+    <style name="AndLua13">
+        <item name="android:colorPrimary">#fff57c00</item>
+        <item name="android:colorAccent">#fff57c00</item>
+        <item name="android:statusBarColor">#fff57c00</item>
+        <item name="android:colorPrimaryDark">#fff57c00</item>
+    </style>
+    <style name="AndLua14">
+        <item name="android:colorPrimary">#ff9e9e9e</item>
+        <item name="android:colorAccent">#ff9e9e9e</item>
+        <item name="android:statusBarColor">#ff9e9e9e</item>
+        <item name="android:colorPrimaryDark">#ff9e9e9e</item>
+    </style>
+    <style name="AndLua15">
+        <item name="android:colorPrimary">#ff000000</item>
+        <item name="android:colorAccent">#ff000000</item>
+        <item name="android:statusBarColor">#ff000000</item>
+        <item name="android:colorPrimaryDark">#ff000000</item>
+    </style>
+    <style name="AndLua16">
+        <item name="android:colorPrimary">#ff388e3c</item>
+        <item name="android:colorAccent">#ff388e3c</item>
+        <item name="android:statusBarColor">#ff388e3c</item>
+        <item name="android:colorPrimaryDark">#ff388e3c</item>
+    </style>
+    <style name="AndLua17">
+        <item name="android:colorPrimary">#ff8bc34a</item>
+        <item name="android:colorAccent">#ff8bc34a</item>
+        <item name="android:statusBarColor">#ff8bc34a</item>
+        <item name="android:colorPrimaryDark">#ff8bc34a</item>
+    </style>
+    <style name="AndLua18">
+        <item name="android:colorPrimary">#ff9c27b0</item>
+        <item name="android:colorAccent">#ff9c27b0</item>
+        <item name="android:statusBarColor">#ff9c27b0</item>
+        <item name="android:colorPrimaryDark">#ff9c27b0</item>
+    </style>
+    <style name="AndLua19">
+        <item name="android:colorPrimary">#ff7870bb</item>
+        <item name="android:colorAccent">#ff7870bb</item>
+        <item name="android:statusBarColor">#ff7870bb</item>
+        <item name="android:colorPrimaryDark">#ff7870bb</item>
+    </style>
+</resources>

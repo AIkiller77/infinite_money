@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon" id="2130771968" />
+    <public type="string" name="accsibility_service_description" id="2130837504" />
+    <public type="style" name="AndLua1" id="2130903041" />
+    <public type="style" name="AndLua2" id="2130903043" />
+    <public type="style" name="AndLua3" id="2130903044" />
+    <public type="style" name="AndLua4" id="2130903045" />
+    <public type="style" name="AndLua5" id="2130903046" />
+    <public type="style" name="AndLua6" id="2130903047" />
+    <public type="style" name="AndLua7" id="2130903048" />
+    <public type="style" name="AndLua8" id="2130903049" />
+    <public type="style" name="AndLua9" id="2130903050" />
+    <public type="style" name="AndLua10" id="2130903051" />
+    <public type="style" name="AndLua11" id="2130903052" />
+    <public type="style" name="AndLua12" id="2130903053" />
+    <public type="style" name="AndLua13" id="2130903054" />
+    <public type="style" name="AndLua14" id="2130903055" />
+    <public type="style" name="AndLua15" id="2130903056" />
+    <public type="style" name="AndLua16" id="2130903057" />
+    <public type="style" name="AndLua17" id="2130903058" />
+    <public type="style" name="AndLua18" id="2130903059" />
+    <public type="style" name="AndLua19" id="2130903061" />
+    <public type="xml" name="accessibility_service_config" id="2130968576" />
+    <public type="xml" name="andlua_filepaths" id="2130968577" />
+</resources>
