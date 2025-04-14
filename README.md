@@ -1,3 +1,3 @@
-just a prnak app,
+just a prank app,
 credits:
 -ayush
