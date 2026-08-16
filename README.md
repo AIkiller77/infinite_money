@@ -1,3 +1,3 @@
 just a prank app,
-credits:
+additional credits:
 -ayush
